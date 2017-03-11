@@ -9,5 +9,6 @@ public class CeShi {
 		//add之后一样了出现*
 		//commit之后就完成了
 		System.out.println("第三次提交了");
+		System.out.println("第八次");
 	}
 }
